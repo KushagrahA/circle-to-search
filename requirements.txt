@@ -1,0 +1,5 @@
+PySide6
+mss
+Pillow
+pynput
+requests
