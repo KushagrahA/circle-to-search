@@ -301,3 +301,5 @@ class OverlayWidget(QWidget):
 
         # Simple rectangular bounding-box crop — clean, no black corners
         return pil_img.crop((x0, y0, x1, y1)).convert("RGB")
+
+# Path smoothing algorithm
