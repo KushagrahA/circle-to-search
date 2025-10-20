@@ -63,3 +63,5 @@ This creates `dist/CircleToSearch.exe` — a single portable executable.
 | Image processing | Pillow |
 | Global hotkey | pynput |
 | Image search | Google Lens (via requests) |
+
+<!-- v1.0.0 Release verified -->
